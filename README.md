@@ -51,6 +51,6 @@ Employee [name=Rambo, age=25, salary=37000.0]
    git clone https://github.com/Manideep-Dasari/collections-sorting-java.git
    ```
 2. Open in your IDE.
-3. Compile and run the **Main** class.
+3. Compile and run the `Main` class.
 4. View the original and sorted employee lists in the console.
 
